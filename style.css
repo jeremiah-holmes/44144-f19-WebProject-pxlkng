@@ -1,0 +1,39 @@
+body {
+    background-color: #373F51;
+    color: #FFFFFF;
+    text-align: center;
+}
+header {
+    text-align: center;
+}
+nav {
+    background-color: #80A4ED;
+    float: none;
+    width: auto;
+    padding-top: 0;
+    margin: 10px;
+    text-align: center;
+}
+nav li {
+    display: inline-block;
+}
+nav a {
+    padding: 1em;
+    width: 8em;
+    font-weight: bold;
+    border-style: none;
+}
+nav ul {
+    padding: 15px;
+}
+
+#hometext {
+    width: 50%;
+    margin: 0 auto;
+}
+#homeportrait {
+    height: 300px;
+}
+footer {
+    text-align: center;
+}
